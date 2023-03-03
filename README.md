@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Raymond
 
 - 🔭 I’m currently working on Manufacturing Industrial
-- 🌱 I’m currently learning something new in tech
+- 🌱 I’m currently learning toolings and how to make developer's productivity increase 🚀
+- 👯 I’m looking to collaborate on open source project, c++/C#/js language related!
+- 📫 Reach me on <a href="https://twitter.com/anonsembiring">twitter</a> & <a href="https://linkedin/com/in/raymondleons" rel="nofollow">linkedin</a>
 
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/raymondleons/raymondleons/blob/main/nice.gif?raw=true" width="100%">
 <!--
