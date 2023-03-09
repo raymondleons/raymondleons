@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Raymond
 
-- 🔭 I’m currently working on Manufacturing Industrial
+- 🔭 I’m currently working on Industrial Manufacture
 - 🌱 I’m currently learning toolings and how to make developer's productivity increase 🚀
 - 👯 I’m looking to collaborate on open source project, c++/C#/js language related!
 - 📫 Reach me on <a href="https://twitter.com/anonsembiring">twitter</a> & <a href="https://linkedin/com/in/raymondleons" rel="nofollow">linkedin</a>
